@@ -90,6 +90,7 @@
             <li>Selalu pastikan URL remote benar sebelum melakukan push atau pull.</li>
             <li>Gunakan branch untuk menghindari konflik saat bekerja dalam tim.</li>
             <li>Rutin lakukan pull untuk memastikan kode lokal Anda up-to-date.</li>
+            <li>Dsb.</li>
         </ul>
     </div>
 
