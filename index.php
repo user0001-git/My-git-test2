@@ -59,6 +59,10 @@
         li {
             margin: 10px 0;
         }
+
+        p {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
     </style>
 </head>
 <body>
