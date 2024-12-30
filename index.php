@@ -82,6 +82,7 @@
             <li>Memungkinkan kolaborasi tim secara efisien.</li>
             <li>Menyimpan salinan kode secara online sebagai cadangan.</li>
             <li>Mempermudah sinkronisasi perubahan antar pengembang.</li>
+            <li>Dll.</li>
         </ul>
 
         <h2>Tips Menggunakan Git Remote</h2>
